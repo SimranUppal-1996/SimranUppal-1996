@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SimranUppal-1996
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me - simranuppal6991@gmail.com
